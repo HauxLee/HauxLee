@@ -53,6 +53,4 @@
 <a href="https://github.com/HauxLee/Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HauxLee&repo=Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop&theme=buefy" />
 </a>
-<a href="https://github.com/Xuenew/PyTopicsApiExplore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=PyTopicsApiExplore&theme=buefy" />
-</a>
+
