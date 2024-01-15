@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey! Welcome to Haoxuan's homepage. 🤩</h2>
 <br />
-
+Nice to meet you! 🙌 I am Haoxuan Li. I am currently pursuing a Master's degree in Computer Science at the University of Southern California🙇‍♂️.
 
 <br />
 <br />
