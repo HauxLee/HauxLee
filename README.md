@@ -11,6 +11,9 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Haoxuan_Li-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haoxuanli)
 [![GitHub](https://img.shields.io/badge/GitHub-HauxLee-C0C0C0?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
 
+- ⚡ Languages
+
+
 
 - ⚡ Skills
 
