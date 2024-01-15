@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! Welcome to Haoxuan's homepage. 👀</h2>
+<h2 align="center">👋 Hey! Welcome to Haoxuan's homepage. 🤩</h2>
 <br />
 
 <br />
