@@ -50,6 +50,6 @@
 #### Come and look some projects I've uploaded to the repository! 👀
 
 
-<a href="[https://github.com/Xuenew/PyTopicsApiExplore](https://github.com/HauxLee/Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop)">
+<a href="[https://github.com/HauxLee/Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop](https://github.com/HauxLee/Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HauxLee&repo=Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop&theme=buefy" />
 </a>
