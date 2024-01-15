@@ -2,9 +2,8 @@
 <br />
 🙌  Nice to meet you!
 
-😉  I am Haoxuan Li
-
-🏫  I am currently pursuing a Master's degree in Computer Science at the University of Southern California 
+😉  I am Haoxuan Li.  
+I am currently pursuing a Master's degree in Computer Science at the University of Southern California 
 
 <br />
 <br />
