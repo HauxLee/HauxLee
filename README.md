@@ -51,5 +51,5 @@
 
 
 <a href="[https://github.com/HauxLee/Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop](https://github.com/HauxLee/Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HauxLee&repo=Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HauxLee&repo=Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop&theme=buefy" />(https://github.com/HauxLee)
 </a>
