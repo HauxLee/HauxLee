@@ -4,7 +4,7 @@
 <br />
 <br />
 
-- 🔭Contact me!💡
+- These👇 are my contact details 📞Feel Free to contact me at any time😜!
 
 [![HomePage](https://img.shields.io/badge/HomePage-Haoxuan_Li-AFEEEE?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/HauxLee)
 [![Email](https://img.shields.io/badge/Email-lihaoxua@usc.edu-008000?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/)
