@@ -9,17 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-HauxLee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
 ![Email](https://img.shields.io/badge/Email-lihaoxua@usc.edu-blue)
 
-
-- 🤔TBA
-
 - ⚡ Skills
-
-
-
-
-[![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_41804512)
-![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
-
 
 ![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
