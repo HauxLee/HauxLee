@@ -15,6 +15,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Haoxuan_Li-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haoxuanli)
 [![GitHub](https://img.shields.io/badge/GitHub-HauxLee-C0C0C0?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
 
+<br />
 - ⚡ Here are languages I often use and I am learning more 🙇‍♂️
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,6 +27,7 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-20C997)
 
+<br />
 - I have completed a lot of projects using these frameworks and tools 💡
 
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white)
@@ -45,8 +47,8 @@
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=HauxLee&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Haoxuan's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=HauxLee&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
-
-#### Top Repositories
+<br />
+#### Come and look some projects I've uploaded to the repository! 👀
 
 
 <a href="[https://github.com/Xuenew/PyTopicsApiExplore](https://github.com/HauxLee/Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop)">
