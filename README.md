@@ -8,7 +8,7 @@
 <br />
 <br />
 
-- These👇 are my contact details 📱Feel Free to contact me at any time😜!
+#### These👇 are my contact details 📱Feel Free to contact me at any time😜!
 
 [![HomePage](https://img.shields.io/badge/HomePage-Haoxuan_Li-AFEEEE?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/HauxLee)
 [![Email](https://img.shields.io/badge/Email-lihaoxua@usc.edu-008000?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/)
@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-HauxLee-C0C0C0?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
 
 <br />
-- ⚡ Here are languages I often use and I am learning more 🙇‍♂️
+#### ⚡ Here are languages I often use and I am learning more 🙇‍♂️
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
@@ -28,7 +28,7 @@
 ![Verilog](https://img.shields.io/badge/-Verilog-20C997)
 
 <br />
-- I have completed a lot of projects using these frameworks and tools 💡
+#### I have completed a lot of projects using these frameworks and tools 💡
 
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
