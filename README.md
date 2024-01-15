@@ -1,14 +1,14 @@
-<h2 align="center">👋 Hey! I'm Xuenew. 🐘</h2>
+<h2 align="center">👋 Hey! Welcome to Haoxuan's homepage. 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
 <br />
 
-- 🔭你好呀！💡
+- 🔭TBA💡
 
-- 🤔这里是忆阳的大象耳朵，会点小爬虫，想做一个有意思的前端工程师
+- 🤔TBA
 
-- ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
+- ⚡ TBA
 
 
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
