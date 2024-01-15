@@ -28,7 +28,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-#4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
