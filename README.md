@@ -27,7 +27,7 @@
 ![Verilog](https://img.shields.io/badge/-Verilog-20C997)
 
 
-#### I have completed a lot of projects using these frameworks and tools 💡
+#### 💡 I have completed a lot of projects using these frameworks and tools 
 
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
