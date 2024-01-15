@@ -6,8 +6,8 @@
 
 - 🔭Contact me!💡
 
-[![Email](https://img.shields.io/badge/Email-lihaoxua@usc.edu-00FF7F?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Haoxuan_Li-0000FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haoxuanli)
+[![Email](https://img.shields.io/badge/Email-lihaoxua@usc.edu-008000?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Haoxuan_Li-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haoxuanli)
 [![GitHub](https://img.shields.io/badge/GitHub-HauxLee-C0C0C0?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
 
 
