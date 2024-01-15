@@ -4,17 +4,20 @@
 <br />
 <br />
 
-- 🔭TBA💡
+- 🔭Contact me!💡
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
+
+![Email](https://img.shields.io/badge/Email-lihaoxua@usc.edu-blue)
+
 
 - 🤔TBA
 
-- ⚡ TBA
+- ⚡ Skills
 
 
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
-[![Email](https://img.shields.io/badge/Email-lihaoxua@usc.edu-blue)](lihaoxua@usc.edu)
+
 [![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_41804512)
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
 
