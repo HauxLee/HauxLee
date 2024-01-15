@@ -6,8 +6,10 @@
 
 - 🔭Contact me!💡
 
-[![GitHub](https://img.shields.io/badge/GitHub-HauxLee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
 ![Email](https://img.shields.io/badge/Email-lihaoxua@usc.edu-blue)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Haoxuan_Li-C0C0C0)](https://www.linkedin.com/in/haoxuanli)
+[![GitHub](https://img.shields.io/badge/GitHub-HauxLee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HauxLee)
+
 
 - ⚡ Skills
 
