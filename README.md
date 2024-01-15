@@ -5,7 +5,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome to Haoxuan's Homepage!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=(Welcome to Haoxuan's Homepage!)&center=true&size=27" />
     </a>
   </div>
 
