@@ -55,6 +55,6 @@
 </a>
 
 <a href="https://github.com/HauxLee/WebDevPortfolio">
-  <img align="center" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HauxLee&repo=WebDevPortfolio&theme=buefy" />
 </a>
 
