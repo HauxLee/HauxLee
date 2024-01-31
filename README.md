@@ -54,7 +54,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HauxLee&repo=Hybrid-Error-Data-Cleaning-Technology-for-Human-In-The-Loop&theme=buefy" />
 </a>
 
-<a href="https://github.com/HauxLee/WebDevPortfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HauxLee&repo=WebDevPortfolio&theme=buefy" />
-</a>
+
 
